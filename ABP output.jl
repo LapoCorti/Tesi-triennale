@@ -91,4 +91,6 @@ f1= pathf*".gif"
 gif(anim, f1)
 end
 
+printf("checking branch")
+
 
